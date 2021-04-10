@@ -1,6 +1,7 @@
 import React from 'react';
 import '../../App.css';
 
-export default function Statistics() {
-  return <h1 className='EPR'></h1>;
+export default function ERP() 
+{
+  return <h1 className='EPR'>Extended Producer Responsibility (EPR)</h1>;
 }
